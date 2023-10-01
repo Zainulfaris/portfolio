@@ -5,7 +5,7 @@
 -- lib.page:
 
 -- lib.header:
-logo: $assets.files.assets.photo_52%4022-07-2023_23-44-25_thumb.jpg
+logo: $assets.files.assets.logo.jpg
 logo-text: Portfolio
 cta-text-1: Home
 cta-text-2: About
@@ -14,7 +14,7 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm Zainu...
+-- hero-1.hero-1: I'm Zainul Faris V K...
 cta-button-1: Resume
 link-1: https://www.resume.com/
 cta-button-2: Schedule Meeting
